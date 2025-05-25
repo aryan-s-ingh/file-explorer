@@ -21,7 +21,7 @@ A simple and intuitive file explorer application built with modern web technolog
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/aryan-s-ingh/file-explorer)
 ```
 
 2. Navigate to the project directory:
