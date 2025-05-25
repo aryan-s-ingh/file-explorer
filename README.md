@@ -44,10 +44,7 @@ The application will open in your default browser at `http://localhost:3000`
 ## Technologies Used
 
 - React.js
-- Node.js
-- Express.js
 - Material-UI/Tailwind CSS (for styling)
-- File System API
 
 ## Future Work
 
